@@ -18,3 +18,4 @@ This is an application that allows users to generate and store passwords for var
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
+<README Will be updated once the project is done>
